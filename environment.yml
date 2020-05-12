@@ -1,0 +1,13 @@
+name: delivery-rl
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - python=3.6
+  - pytorch
+  - torchvision
+  - cudatoolkit=10.1
+  - numpy
+  - pip
+  - pip:
+    - -r requirements.txt

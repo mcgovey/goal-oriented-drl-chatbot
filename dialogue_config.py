@@ -21,12 +21,16 @@ usersim_required_init_inform_keys = ['moviename']
 #######################################
 
 # Possible inform and request slots for the agent
-agent_inform_slots = ['moviename', 'theater', 'starttime', 'date', 'genre', 'state', 'city', 'zip', 'critic_rating',
-                      'mpaa_rating', 'distanceconstraints', 'video_format', 'theater_chain', 'price', 'actor',
-                      'description', 'other', 'numberofkids', usersim_default_key]
-agent_request_slots = ['moviename', 'theater', 'starttime', 'date', 'numberofpeople', 'genre', 'state', 'city', 'zip',
-                       'critic_rating', 'mpaa_rating', 'distanceconstraints', 'video_format', 'theater_chain', 'price',
-                       'actor', 'description', 'other', 'numberofkids']
+# agent_inform_slots = ['moviename', 'theater', 'starttime', 'date', 'genre', 'state', 'city', 'zip', 'critic_rating',
+#                       'mpaa_rating', 'distanceconstraints', 'video_format', 'theater_chain', 'price', 'actor',
+#                       'description', 'other', 'numberofkids', usersim_default_key]
+# agent_request_slots = ['moviename', 'theater', 'starttime', 'date', 'numberofpeople', 'genre', 'state', 'city', 'zip',
+#                        'critic_rating', 'mpaa_rating', 'distanceconstraints', 'video_format', 'theater_chain', 'price',
+#                        'actor', 'description', 'other', 'numberofkids']
+agent_inform_slots = ['city', 'neighborhood', 'state', 'zip', 'name', 'yelprating', 'googlerating', 'date', 'time',
+                      'numofkids', usersim_default_key]
+agent_request_slots = ['city', 'neighborhood', 'state', 'zip', 'name', 'yelprating', 'googlerating', 'date', 'time',
+                      'numofkids', 'numofpeople']
 
 # Possible actions for agent
 agent_actions = [
@@ -42,10 +46,11 @@ for slot in agent_request_slots:
     agent_actions.append({'intent': 'request', 'inform_slots': {}, 'request_slots': {slot: 'UNK'}})
 
 # Rule-based policy request list
-rule_requests = ['moviename', 'starttime', 'city', 'date', 'theater', 'numberofpeople']
+# rule_requests = ['moviename', 'starttime', 'city', 'date', 'theater', 'numberofpeople']
+rule_requests = ['name', 'time', 'date', 'city', 'neighborhood', 'numofpeople']
 
 # These are possible inform slot keys that cannot be used to query
-no_query_keys = ['numberofpeople', usersim_default_key]
+no_query_keys = ['numofpeople', usersim_default_key]
 
 #######################################
 # Global config
@@ -60,7 +65,5 @@ SUCCESS = 1
 all_intents = ['inform', 'request', 'done', 'match_found', 'thanks', 'reject']
 
 # All possible slots (for one-hot conversion in ST.get_state())
-all_slots = ['actor', 'actress', 'city', 'critic_rating', 'date', 'description', 'distanceconstraints',
-             'genre', 'greeting', 'implicit_value', 'movie_series', 'moviename', 'mpaa_rating',
-             'numberofpeople', 'numberofkids', 'other', 'price', 'seating', 'starttime', 'state',
-             'theater', 'theater_chain', 'video_format', 'zip', 'result', usersim_default_key, 'mc_list']
+all_slots = ['city', 'neighborhood', 'state', 'zip', 'name', 'yelprating', 'googlerating', 'date', 'time',
+            'numofkids', 'numofpeople', usersim_default_key, 'mc_list']

@@ -1,13 +1,13 @@
 {
   "db_file_paths": {
-    "database": "data/movie_db.pkl",
-    "dict": "data/movie_dict.pkl",
-    "user_goals": "data/movie_user_goals.pkl"
+    "database": "data/res_db.pkl",
+    "dict": "data/res_dict.pkl",
+    "user_goals": "data/res_user_goals.pkl"
   },
   "run": {
     "usersim": true,
     "warmup_mem": 1000,
-    "num_ep_run": 40000,
+    "num_ep_run": 20000,
     "train_freq": 100,
     "max_round_num": 20,
     "success_rate_threshold": 0.3

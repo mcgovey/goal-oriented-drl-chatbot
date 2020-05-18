@@ -43,16 +43,19 @@ if __name__ == "__main__":
 
     # Load movie DB
     # Note: If you get an unpickling error here then run 'pickle_converter.py' and it should fix it
-    database = pickle.load(open(DATABASE_FILE_PATH, 'rb'), encoding='latin1')
+    # database = pickle.load(open(DATABASE_FILE_PATH, 'rb'), encoding='latin1')
+    database = pickle.load(open(DATABASE_FILE_PATH, 'rb'))
 
     # Clean DB
     remove_empty_slots(database)
 
     # Load movie dict
-    db_dict = pickle.load(open(DICT_FILE_PATH, 'rb'), encoding='latin1')
+    # db_dict = pickle.load(open(DICT_FILE_PATH, 'rb'), encoding='latin1')
+    db_dict = pickle.load(open(DICT_FILE_PATH, 'rb'))
 
     # Load goal File
-    user_goals = pickle.load(open(USER_GOALS_FILE_PATH, 'rb'), encoding='latin1')
+    # user_goals = pickle.load(open(USER_GOALS_FILE_PATH, 'rb'), encoding='latin1')
+    user_goals = pickle.load(open(USER_GOALS_FILE_PATH, 'rb'))
 
     # Init. Objects
     if USE_USERSIM:
@@ -100,6 +103,7 @@ def warmup_run():
         done = False
         # Get initial state from state tracker
         state = state_tracker.get_state()
+        print(state)
         while not done:
             next_state, _, done, _ = run_round(state, warmup=True)
             total_step += 1

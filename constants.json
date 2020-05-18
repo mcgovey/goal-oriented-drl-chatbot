@@ -7,7 +7,7 @@
   "run": {
     "usersim": true,
     "warmup_mem": 1000,
-    "num_ep_run": 20000,
+    "num_ep_run": 40000,
     "train_freq": 100,
     "max_round_num": 20,
     "success_rate_threshold": 0.3

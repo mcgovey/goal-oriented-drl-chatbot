@@ -103,7 +103,6 @@ def warmup_run():
         done = False
         # Get initial state from state tracker
         state = state_tracker.get_state()
-        print(state)
         while not done:
             next_state, _, done, _ = run_round(state, warmup=True)
             total_step += 1

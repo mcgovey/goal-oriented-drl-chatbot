@@ -150,7 +150,7 @@ def train_run():
                 print('Episode: {} NEW BEST SUCCESS RATE: {} Avg Reward: {}' .format(episode, success_rate, avg_reward))
                 success_rate_best = success_rate
                 dqn_agent.save_weights()
-            elif episode % 1000:
+            elif episode % 1000 == 0:
                 print('Episode: {} current success rate: {} Avg Reward: {}' .format(episode, success_rate, avg_reward))
             period_success_total = 0
             period_reward_total = 0

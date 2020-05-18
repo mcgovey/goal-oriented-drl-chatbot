@@ -1,110 +1,110 @@
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'date': 'today', 'time': '6:30 pm', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Midtown', 'name': 'Farida', 'date': 'Friday', 'time': '7 PM', 'numofpeople': '3'}}
-{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'date': 'today', 'numofpeople': '4'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'date': 'today', 'time': '8ish', 'numofpeople': '6'}}
-{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'numofpeople': '3'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'Liebmans Deli', 'date': 'today', 'time': '6:30 pm', 'numofpeople': '3'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdôra', 'date': 'Friday', 'time': '8ish', 'numofpeople': '6'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'date': 'today', 'time': '6:30 pm', 'numofpeople': '4'}}
-{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'Friday', 'time': '6:30 pm'}}
-{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdôra', 'date': 'tomorrow', 'time': '8ish', 'numofpeople': '6'}}
-{'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Chelsea', 'name': 'Los Tacos No1'}}
-{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'West Village', 'name': 'EAK Ramen', 'date': 'today', 'time': '6:30 pm'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'date': 'tomorrow', 'time': '7 PM', 'numofpeople': '3'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'West Village', 'name': 'EAK Ramen', 'date': 'Friday', 'time': '6:30 pm', 'numofpeople': '4'}}
-{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'date': 'Friday', 'time': '7 PM'}}
-{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Harlem', 'name': 'Africa Kine', 'date': 'today', 'time': '6:30 pm'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hells Kitchen', 'name': 'Le Bernardin', 'date': 'today', 'time': '6:30 pm', 'numofpeople': '2'}}
-{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'today', 'time': '7 PM'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'West Village', 'name': 'EAK Ramen', 'date': 'today', 'time': '7 PM', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Sushi Noz', 'date': 'Friday', 'time': '6:30 pm', 'numofpeople': '6'}}
-{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'date': 'Friday', 'time': '6:30 pm'}}
+{'request_slots': {'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'date': 'today'}}
+{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hells Kitchen', 'name': 'Le Bernardin', 'date': 'today', 'time': '7 PM'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Sushi Noz', 'date': 'Friday', 'numofpeople': '4'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdora', 'numofpeople': '3'}}
+{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'date': 'tomorrow', 'time': '8ish'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Gregorys 26 Corner Taverna', 'date': 'tomorrow', 'time': '8ish', 'numofpeople': '2'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'date': 'tomorrow', 'time': '6:30 pm', 'numofpeople': '3'}}
+{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdora', 'date': 'Friday', 'time': '8ish'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'West Village', 'name': 'EAK Ramen', 'numofpeople': '2'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hudson Yards', 'name': 'Momofuku Kawi', 'date': 'Friday', 'numofpeople': '4'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'Friday', 'numofpeople': '4'}}
+{'request_slots': {'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flushing', 'name': 'Haidilao', 'date': 'today'}}
+{'request_slots': {'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Adda Indian Canteen', 'date': 'today'}}
+{'request_slots': {'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'Friday'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Sushi Noz', 'date': 'Friday', 'time': '8ish', 'numofpeople': '4'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Chelsea', 'name': 'Los Tacos No1', 'date': 'today', 'numofpeople': '3'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Adda Indian Canteen'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'date': 'today', 'numofpeople': '2'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'today', 'time': '7 PM', 'numofpeople': '3'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hudson Yards', 'name': 'Momofuku Kawi', 'numofpeople': '2'}}
+{'request_slots': {'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'today'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'Liebmans Deli'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'date': 'today', 'time': '7 PM', 'numofpeople': '2'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'numofpeople': '6'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flushing', 'name': 'Haidilao', 'date': 'Friday', 'time': '7 PM', 'numofpeople': '4'}}
 {'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hells Kitchen', 'name': 'Le Bernardin', 'date': 'today', 'numofpeople': '4'}}
 {'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hells Kitchen', 'name': 'Le Bernardin'}}
 {'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Harlem', 'name': 'Africa Kine', 'date': 'today', 'time': '8ish', 'numofpeople': '4'}}
 {'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'Liebmans Deli'}}
 {'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Midtown', 'name': 'Farida', 'date': 'tomorrow', 'time': '7 PM', 'numofpeople': '2'}}
-{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdôra', 'date': 'Friday', 'time': '6:30 pm'}}
-{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'Liebmans Deli', 'date': 'today', 'numofpeople': '4'}}
-{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdôra', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Adda Indian Canteen', 'date': 'Friday', 'time': '8ish', 'numofpeople': '6'}}
-{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'today', 'numofpeople': '4'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Harlem', 'name': 'Africa Kine', 'date': 'Friday', 'time': '8ish', 'numofpeople': '2'}}
+{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdora', 'date': 'Friday', 'time': '6:30 pm'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'Liebmans Deli', 'numofpeople': '2'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'Liebmans Deli'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdora', 'numofpeople': '2'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Adda Indian Canteen'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Midtown', 'name': 'Farida', 'date': 'tomorrow', 'time': '8ish', 'numofpeople': '3'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hudson Yards', 'name': 'Momofuku Kawi', 'numofpeople': '4'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Harlem', 'name': 'Africa Kine', 'date': 'Friday', 'numofpeople': '2'}}
 {'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Adda Indian Canteen', 'date': 'today', 'time': '7 PM', 'numofpeople': '6'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hells Kitchen', 'name': 'Le Bernardin', 'date': 'today', 'time': '8ish', 'numofpeople': '3'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flushing', 'name': 'Haidilao', 'date': 'today', 'time': '6:30 pm', 'numofpeople': '3'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hells Kitchen', 'name': 'Le Bernardin'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Harlem', 'name': 'Africa Kine', 'date': 'tomorrow', 'time': '6:30 pm', 'numofpeople': '2'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'Friday', 'numofpeople': '3'}}
 {'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'numofpeople': '3'}}
 {'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'numofpeople': '6'}}
 {'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'numofpeople': '6'}}
-{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdôra', 'date': 'Friday', 'numofpeople': '4'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Gregorys 26 Corner Taverna', 'date': 'tomorrow', 'time': '7 PM', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Midtown', 'name': 'Farida', 'date': 'tomorrow', 'time': '7 PM', 'numofpeople': '4'}}
-{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Midtown', 'name': 'Farida', 'date': 'tomorrow', 'time': '6:30 pm'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hudson Yards', 'name': 'Momofuku Kawi', 'date': 'Friday', 'time': '7 PM', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'West Village', 'name': 'EAK Ramen', 'date': 'today', 'time': '6:30 pm', 'numofpeople': '3'}}
+{'request_slots': {'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdora', 'date': 'Friday'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'West Village', 'name': 'EAK Ramen', 'numofpeople': '4'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Gregorys 26 Corner Taverna', 'date': 'today', 'time': '7 PM', 'numofpeople': '3'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flushing', 'name': 'Haidilao', 'date': 'today', 'numofpeople': '6'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Gregorys 26 Corner Taverna', 'date': 'Friday', 'numofpeople': '2'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hudson Yards', 'name': 'Momofuku Kawi', 'date': 'today', 'numofpeople': '3'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flushing', 'name': 'Haidilao', 'numofpeople': '3'}}
 {'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'numofpeople': '4'}}
 {'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Harlem', 'name': 'Africa Kine', 'date': 'Friday', 'time': '6:30 pm', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'date': 'Friday', 'time': '7 PM', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Harlem', 'name': 'Africa Kine', 'date': 'today', 'time': '7 PM', 'numofpeople': '6'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'West Village', 'name': 'EAK Ramen', 'date': 'today', 'time': '6:30 pm', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdôra', 'date': 'tomorrow', 'time': '8ish', 'numofpeople': '6'}}
+{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'date': 'Friday', 'time': '7 PM'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Harlem', 'name': 'Africa Kine', 'date': 'Friday', 'time': '8ish', 'numofpeople': '2'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flushing', 'name': 'Haidilao'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Gregorys 26 Corner Taverna', 'numofpeople': '2'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdora', 'date': 'tomorrow', 'time': '8ish', 'numofpeople': '6'}}
 {'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'date': 'today', 'time': '8ish', 'numofpeople': '4'}}
 {'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hells Kitchen', 'name': 'Le Bernardin'}}
 {'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Sushi Noz', 'date': 'Friday', 'time': '6:30 pm', 'numofpeople': '6'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Harlem', 'name': 'Africa Kine', 'date': 'today', 'time': '6:30 pm', 'numofpeople': '3'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Chelsea', 'name': 'Los Tacos No1', 'date': 'today', 'time': '7 PM', 'numofpeople': '4'}}
-{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'Liebmans Deli', 'date': 'Friday', 'numofpeople': '4'}}
-{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'Liebmans Deli', 'numofpeople': '6'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hudson Yards', 'name': 'Momofuku Kawi', 'date': 'tomorrow', 'time': '8ish', 'numofpeople': '3'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'tomorrow', 'time': '6:30 pm', 'numofpeople': '6'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Harlem', 'name': 'Africa Kine', 'numofpeople': '6'}}
+{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'date': 'Friday', 'time': '8ish'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flushing', 'name': 'Haidilao', 'numofpeople': '6'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hudson Yards', 'name': 'Momofuku Kawi'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'date': 'Friday', 'time': '6:30 pm', 'numofpeople': '4'}}
+{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Midtown', 'name': 'Farida', 'date': 'tomorrow', 'time': '7 PM'}}
+{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'date': 'tomorrow', 'time': '7 PM'}}
 {'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'today', 'time': '7 PM', 'numofpeople': '4'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdôra', 'date': 'tomorrow', 'time': '7 PM', 'numofpeople': '6'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'date': 'Friday', 'time': '6:30 pm', 'numofpeople': '3'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdora', 'date': 'tomorrow', 'time': '7 PM', 'numofpeople': '6'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar'}}
+{'request_slots': {'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'tomorrow'}}
 {'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'date': 'today', 'time': '7 PM', 'numofpeople': '4'}}
 {'request_slots': {'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Harlem', 'name': 'Africa Kine', 'date': 'Friday'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Sushi Noz', 'date': 'tomorrow', 'time': '6:30 pm', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flushing', 'name': 'Haidilao', 'date': 'tomorrow', 'time': '7 PM', 'numofpeople': '3'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Midtown', 'name': 'Farida', 'date': 'Friday', 'time': '8ish', 'numofpeople': '6'}}
+{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Sushi Noz', 'date': 'tomorrow', 'time': '6:30 pm'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Midtown', 'name': 'Farida'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flushing', 'name': 'Haidilao'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'date': 'tomorrow', 'time': '6:30 pm', 'numofpeople': '2'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'date': 'today', 'numofpeople': '6'}}
 {'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'numofpeople': '6'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdôra', 'date': 'Friday', 'time': '6:30 pm', 'numofpeople': '4'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'West Village', 'name': 'EAK Ramen', 'date': 'tomorrow', 'time': '6:30 pm', 'numofpeople': '3'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Chelsea', 'name': 'Los Tacos No1', 'date': 'Friday', 'time': '7 PM', 'numofpeople': '3'}}
-{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdôra', 'date': 'tomorrow', 'time': '8ish'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Chelsea', 'name': 'Los Tacos No1', 'date': 'Friday', 'time': '7 PM', 'numofpeople': '3'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdôra', 'date': 'today', 'time': '8ish', 'numofpeople': '6'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hells Kitchen', 'name': 'Le Bernardin', 'date': 'Friday', 'time': '8ish', 'numofpeople': '3'}}
+{'request_slots': {'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdora', 'date': 'Friday'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flushing', 'name': 'Haidilao', 'date': 'today', 'time': '7 PM', 'numofpeople': '4'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Chelsea', 'name': 'Los Tacos No1', 'date': 'tomorrow', 'time': '6:30 pm', 'numofpeople': '3'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flushing', 'name': 'Haidilao', 'date': 'Friday', 'time': '7 PM', 'numofpeople': '6'}}
+{'request_slots': {'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'West Village', 'name': 'EAK Ramen', 'date': 'Friday'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hudson Yards', 'name': 'Momofuku Kawi', 'numofpeople': '3'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdora', 'date': 'today', 'time': '8ish', 'numofpeople': '6'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hells Kitchen', 'name': 'Le Bernardin', 'date': 'Friday', 'numofpeople': '3'}}
 {'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'Liebmans Deli', 'date': 'today', 'time': '8ish', 'numofpeople': '3'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'Liebmans Deli', 'date': 'today', 'time': '8ish', 'numofpeople': '3'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'West Village', 'name': 'EAK Ramen', 'date': 'Friday', 'time': '8ish', 'numofpeople': '4'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'Liebmans Deli', 'date': 'today', 'numofpeople': '3'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'West Village', 'name': 'EAK Ramen', 'date': 'Friday', 'numofpeople': '4'}}
 {'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'date': 'today', 'time': '8ish', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Adda Indian Canteen', 'date': 'Friday', 'time': '8ish', 'numofpeople': '6'}}
-{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'numofpeople': '4'}}
-{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Sushi Noz', 'date': 'tomorrow', 'time': '8ish'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Adda Indian Canteen', 'date': 'Friday', 'numofpeople': '4'}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flushing', 'name': 'Haidilao', 'date': 'Friday', 'time': '6:30 pm', 'numofpeople': '2'}}
+{'request_slots': {'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Harlem', 'name': 'Africa Kine', 'date': 'Friday'}}
 {'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Adda Indian Canteen', 'date': 'today', 'time': '7 PM', 'numofpeople': '6'}}
 {'request_slots': {'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Chelsea', 'name': 'Los Tacos No1', 'date': 'today'}}
-{'request_slots': {'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'West Village', 'name': 'EAK Ramen', 'date': 'Friday'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdôra', 'date': 'tomorrow', 'time': '6:30 pm', 'numofpeople': '4'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'date': 'tomorrow', 'time': '7 PM', 'numofpeople': '6'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'West Village', 'name': 'EAK Ramen', 'numofpeople': '3'}}
+{'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdora', 'numofpeople': '3'}}
+{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hudson Yards', 'name': 'Momofuku Kawi', 'date': 'Friday', 'numofpeople': '4'}}
+{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'West Village', 'name': 'EAK Ramen', 'date': 'today', 'time': '8ish'}}
 {'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Midtown', 'name': 'Farida', 'date': 'today', 'time': '7 PM', 'numofpeople': '6'}}
 {'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'La Morada', 'date': 'Friday', 'time': '6:30 pm', 'numofpeople': '3'}}
 {'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'numofpeople': '6'}}
 {'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Sushi Noz', 'numofpeople': '4'}}
 {'request_slots': {'date': 'UNK', 'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hudson Yards', 'name': 'Momofuku Kawi', 'numofpeople': '6'}}
 {'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hudson Yards', 'name': 'Momofuku Kawi', 'date': 'tomorrow', 'time': '8ish', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'tomorrow', 'time': '8ish', 'numofpeople': '4'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Flora Bar', 'date': 'Friday', 'time': '6:30 pm', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Harlem', 'name': 'Africa Kine', 'date': 'today', 'time': '6:30 pm', 'numofpeople': '6'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flushing', 'name': 'Haidilao', 'date': 'Friday', 'time': '8ish', 'numofpeople': '6'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Adda Indian Canteen', 'date': 'Friday', 'time': '6:30 pm', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Hudson Yards', 'name': 'Momofuku Kawi', 'date': 'today', 'time': '6:30 pm', 'numofpeople': '2'}}
-{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'Friday', 'time': '6:30 pm'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'today', 'time': '8ish', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Upper East Side', 'name': 'Sushi Noz', 'date': 'tomorrow', 'time': '7 PM', 'numofpeople': '6'}}
-{'request_slots': {'time': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'Liebmans Deli', 'date': 'Friday', 'numofpeople': '4'}}
-{'request_slots': {'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Chelsea', 'name': 'Los Tacos No1', 'date': 'Friday', 'time': '7 PM'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdôra', 'date': 'tomorrow', 'time': '8ish', 'numofpeople': '6'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Bronx', 'name': 'Liebmans Deli', 'date': 'Friday', 'time': '8ish', 'numofpeople': '6'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdôra', 'date': 'tomorrow', 'time': '6:30 pm', 'numofpeople': '4'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'LIC', 'name': 'Gregorys 26 Corner Taverna', 'date': 'Friday', 'time': '6:30 pm', 'numofpeople': '2'}}
-{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Flatiron', 'name': 'Rezdôra', 'date': 'Friday', 'time': '6:30 pm', 'numofpeople': '3'}}
+{'request_slots': {'time': 'UNK', 'numofpeople': 'UNK'}, 'diaact': 'request', 'inform_slots': {'city': 'New York', 'neighborhood': 'Nomad', 'name': 'Atomix', 'date': 'tomorrow'}}
